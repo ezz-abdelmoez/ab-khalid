@@ -1,0 +1,75 @@
+[
+  {
+    "id": "seebha-alaya",
+    "title": "جائزة «سيبها عليا»",
+    "subtitle": "الفئة: الثقة المطلقة",
+    "description": "مُنحت تقديرًا للقدرة المستمرة على التعامل مع المواقف بثقة تجعل الجميع يقول «خلاص، اتحلت».",
+    "icon": "🏆",
+    "year": "2024",
+    "image": "/images/achievements/award-01.jpg",
+    "humorous": true,
+    "category": "legendary"
+  },
+  {
+    "id": "olna-el-hal",
+    "title": "جائزة «قولنا الحل»",
+    "subtitle": "الفئة: سرعة البديهة",
+    "description": "بعد تقديم حل قبل انتهاء الاجتماع. اللجنة لم تكن تتوقع أن الحل سيأتي بهذه السرعة.",
+    "icon": "🥇",
+    "year": "2023",
+    "image": "/images/achievements/award-02.jpg",
+    "humorous": true,
+    "category": "speed"
+  },
+  {
+    "id": "matelqash",
+    "title": "جائزة «متقلقش»",
+    "subtitle": "الفئة: الطمأنينة الاستراتيجية",
+    "description": "لأن بعض الجمل لا تحتاج إلى شرح. «متقلقش» منه تساوي خطة عمل كاملة معتمدة من الإدارة العليا.",
+    "icon": "🏆",
+    "year": "2024",
+    "image": "/images/achievements/award-03.jpg",
+    "humorous": true,
+    "category": "trust"
+  },
+  {
+    "id": "certified-legend",
+    "title": "Certified Legend™",
+    "subtitle": "اعتماد رسمي من الجهة المختصة بالعظمة",
+    "description": "شهادة تثبت أن حاملها قد وصل إلى مستوى أسطوري لا يمكن قياسه بالأدوات التقليدية.",
+    "icon": "👑",
+    "year": "2025",
+    "humorous": true,
+    "category": "certification"
+  },
+  {
+    "id": "problem-whisperer",
+    "title": "The Problem Whisperer",
+    "subtitle": "الفئة: التعامل مع المستحيل",
+    "description": "للقدرة على سماع المشكلة وهي لسه بتفكر تظهر. يتعامل معها قبل ما حد يحس بيها.",
+    "icon": "🎯",
+    "year": "2023",
+    "humorous": true,
+    "category": "mastery"
+  },
+  {
+    "id": "coffee-strategist",
+    "title": "استراتيجي القهوة",
+    "subtitle": "الفئة: الأداء تحت الضغط",
+    "description": "يعمل بكفاءة عالية تحت الضغط، بشرط توفر القهوة. تم قياس الأداء ووجد أنه يرتفع طردياً مع عدد فناجين القهوة.",
+    "icon": "☕",
+    "year": "2022",
+    "humorous": true,
+    "category": "performance"
+  },
+  {
+    "id": "meeting-saver",
+    "title": "منقذ الاجتماعات",
+    "subtitle": "الفئة: القيادة",
+    "description": "الشخص الذي يحول اجتماع مدته ساعتان إلى قرار في 10 دقائق. موهبة لا تقدر بثمن.",
+    "icon": "⚡",
+    "year": "2024",
+    "humorous": true,
+    "category": "leadership"
+  }
+]

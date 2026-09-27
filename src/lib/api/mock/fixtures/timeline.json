@@ -1,0 +1,47 @@
+[
+  {
+    "id": "beginning",
+    "year": "2018",
+    "title": "البداية",
+    "description": "في البداية كان شخصًا عاديًا... يحاول يفهم الدنيا ماشية إزاي. لكن كان عنده ميزة: لما يقول «سيبها عليا» كان فعلاً يقصدها.",
+    "image": "/images/gallery/photo-01.jpg",
+    "achievement": "أول مرة قال فيها «سيبها عليا» وطلعت صح",
+    "humorous": true
+  },
+  {
+    "id": "first-achievement",
+    "year": "2020",
+    "title": "أول إنجاز حقيقي",
+    "description": "المشروع كان شكله مستحيل. كل الناس قالت «صعبة». هو قال «ولا يهمك» وبعد 3 أيام كان المشروع خلصان وبيشكروه.",
+    "image": "/images/gallery/photo-02.jpg",
+    "achievement": "تحويل المستحيل إلى «تمام، خلصت»",
+    "humorous": true
+  },
+  {
+    "id": "evolution",
+    "year": "2022",
+    "title": "مرحلة التطور",
+    "description": "بدأ يتعامل مع مشاكل أكبر. مشاكل مكنتش موجودة في الـ Job Description أصلاً. لكنه قرر يتعامل معاها بمنهجية استراتيجية.",
+    "image": "/images/gallery/photo-03.jpg",
+    "achievement": "اختراع حلول لمشاكل لم يخترعها أحد بعد",
+    "humorous": true
+  },
+  {
+    "id": "control",
+    "year": "2024",
+    "title": "مرحلة السيطرة",
+    "description": "وصل لمرحلة من الخبرة جعلت كلمة «متقلقش» تُعتبر خطة عمل. الإدارة العليا بدأت تستشيره في كل حاجة، حتى لو مش تخصصه.",
+    "image": "/images/gallery/photo-04.jpg",
+    "achievement": "تم اعتماده كـ Certified Problem Solver™",
+    "humorous": true
+  },
+  {
+    "id": "legend",
+    "year": "2026",
+    "title": "الأسطورة الحالية",
+    "description": "الآن... هو الشخص اللي لما المشكلة تظهر، الناس مش بتدور على حل. بتدور عليه هو. لأن وجوده في حد ذاته يرفع مستوى الثقة بنسبة 99.9%.",
+    "image": "/images/hero/portrait.jpg",
+    "achievement": "الوصول إلى مستوى أسطوري غير قابل للقياس",
+    "humorous": true
+  }
+]

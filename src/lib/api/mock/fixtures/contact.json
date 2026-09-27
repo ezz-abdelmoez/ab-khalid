@@ -1,0 +1,15 @@
+{
+  "email": "legend@ab-khalid.com",
+  "phone": "+20 100 000 0000",
+  "whatsapp": "https://wa.me/201000000000",
+  "location": "القاهرة، مصر",
+  "availability": "متاح للمشاريع الأسطورية — بشرط توفر القهوة",
+  "message": "المشاريع الكبيرة تبدأ بخطوة... والخطوة تبدأ برسالة واتساب.",
+  "socialLinks": [
+    { "platform": "github", "url": "https://github.com/zeroonetwo680-bit", "label": "GitHub" },
+    { "platform": "linkedin", "url": "https://linkedin.com/in/ab-khalid", "label": "LinkedIn" },
+    { "platform": "instagram", "url": "https://instagram.com/ab.khalid", "label": "Instagram" },
+    { "platform": "whatsapp", "url": "https://wa.me/201000000000", "label": "WhatsApp" },
+    { "platform": "facebook", "url": "https://facebook.com/ab.khalid", "label": "Facebook" }
+  ]
+}

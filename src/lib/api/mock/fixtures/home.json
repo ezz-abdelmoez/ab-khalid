@@ -1,0 +1,72 @@
+{
+  "profile": {
+    "name": "عبدالله خالد",
+    "shortName": "عبدالله",
+    "initials": "ع خ",
+    "title": "خبير استراتيجي في حل المشاكل التي لم تكن موجودة من الأساس",
+    "subtitle": "Senior Professional في مجال «سيبها عليا»",
+    "bio": "شخص لا يبحث عن المشاكل... المشاكل هي التي تعرف طريقها إليه.",
+    "longBio": "في البداية كان شخصًا عاديًا... ثم قال «سيبها عليا» ومن هنا بدأت الرحلة.",
+    "heroImage": "/images/hero/portrait.jpg",
+    "heroImage2": "/images/hero/portrait-2.jpg",
+    "backgroundImage": "/images/hero/background.jpg",
+    "location": "القاهرة، مصر",
+    "availability": "متاح للمشاريع الأسطورية",
+    "email": "legend@ab-khalid.com",
+    "phone": "+20 100 000 0000",
+    "socialLinks": [
+      { "platform": "github", "url": "https://github.com/zeroonetwo680-bit", "label": "GitHub" },
+      { "platform": "linkedin", "url": "https://linkedin.com/in/ab-khalid", "label": "LinkedIn" },
+      { "platform": "instagram", "url": "https://instagram.com/ab.khalid", "label": "Instagram" },
+      { "platform": "whatsapp", "url": "https://wa.me/201000000000", "label": "WhatsApp" }
+    ]
+  },
+  "statistics": [
+    {
+      "id": "confidence",
+      "value": 99.9,
+      "suffix": "%",
+      "label": "معدل الثقة",
+      "description": "تم قياسه في ظروف صعبة جداً",
+      "humorous": true
+    },
+    {
+      "id": "ideas",
+      "value": "∞",
+      "label": "عدد الأفكار",
+      "description": "الرقم خارج نطاق النظام",
+      "humorous": true
+    },
+    {
+      "id": "availability",
+      "value": "24/7",
+      "label": "جاهزية نظرية",
+      "description": "عملياً حسب توفر القهوة",
+      "humorous": true
+    }
+  ],
+  "featuredAchievements": [
+    {
+      "id": "seebha-alaya",
+      "title": "جائزة «سيبها عليا»",
+      "subtitle": "الفئة: الثقة المطلقة",
+      "description": "مُنحت تقديرًا للقدرة المستمرة على التعامل مع المواقف بثقة.",
+      "icon": "🏆",
+      "year": "2024",
+      "image": "/images/achievements/award-01.jpg",
+      "humorous": true
+    }
+  ],
+  "featuredProjects": [
+    {
+      "id": "project-alpha",
+      "title": "Project Alpha",
+      "description": "بدأ كفكرة بسيطة، ثم تطور إلى مشروع استراتيجي.",
+      "status": "MISSION ACCOMPLISHED",
+      "image": "/images/projects/project-01.jpg",
+      "technologies": ["التفكير الاستراتيجي", "حل المشاكل"],
+      "highlights": ["تم إنجازه قبل الموعد"],
+      "featured": true
+    }
+  ]
+}

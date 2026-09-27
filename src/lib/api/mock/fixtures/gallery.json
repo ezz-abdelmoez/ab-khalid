@@ -1,0 +1,74 @@
+[
+  {
+    "id": "photo-01",
+    "image": "/images/gallery/photo-01.jpg",
+    "title": "لحظة تاريخية",
+    "caption": "قبل الاجتماع الحاسم. الهدوء الذي يسبق الإنجاز.",
+    "category": "work",
+    "width": 800,
+    "height": 600
+  },
+  {
+    "id": "photo-02",
+    "image": "/images/gallery/photo-02.jpg",
+    "title": "في مهمة لا نعرف تفاصيلها",
+    "caption": "بعض المهام سرية للغاية. لكن النتيجة دائماً: نجاح.",
+    "category": "mission",
+    "width": 600,
+    "height": 800
+  },
+  {
+    "id": "photo-03",
+    "image": "/images/gallery/photo-03.jpg",
+    "title": "التركيز الأسطوري",
+    "caption": "عندما يركز، العالم كله بيسكت احتراماً.",
+    "category": "focus",
+    "width": 800,
+    "height": 600
+  },
+  {
+    "id": "photo-04",
+    "image": "/images/gallery/photo-04.jpg",
+    "title": "بعد الإنجاز",
+    "caption": "الابتسامة التي تقول «قولتلكم متقلقوش».",
+    "category": "achievement",
+    "width": 800,
+    "height": 800
+  },
+  {
+    "id": "photo-05",
+    "image": "/images/gallery/photo-05.jpg",
+    "title": "لحظة تفكير استراتيجي",
+    "caption": "يشوف 5 خطوات قدام. إحنا لسه بنفكر في الخطوة الجاية.",
+    "category": "strategy",
+    "width": 600,
+    "height": 800
+  },
+  {
+    "id": "photo-06",
+    "image": "/images/gallery/photo-06.jpg",
+    "title": "مع الفريق",
+    "caption": "القيادة مش بالكلام، بالفعل. والفريق عارف كده كويس.",
+    "category": "team",
+    "width": 800,
+    "height": 600
+  },
+  {
+    "id": "photo-07",
+    "image": "/images/hero/portrait.jpg",
+    "title": "الصورة الرسمية للأسطورة",
+    "caption": "الصورة التي يتم استخدامها في جميع الوثائق الرسمية للعظمة.",
+    "category": "official",
+    "width": 800,
+    "height": 1000
+  },
+  {
+    "id": "photo-08",
+    "image": "/images/hero/portrait-2.jpg",
+    "title": "وضع الأسطورة",
+    "caption": "عندما يتم تفعيل وضع الأسطورة، هذه هي النتيجة.",
+    "category": "legend",
+    "width": 800,
+    "height": 600
+  }
+]

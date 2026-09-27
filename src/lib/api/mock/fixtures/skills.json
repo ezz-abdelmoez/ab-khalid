@@ -1,0 +1,66 @@
+[
+  {
+    "id": "problem-solving",
+    "title": "حل المشاكل",
+    "icon": "🧠",
+    "level": "أسطوري",
+    "description": "يستطيع اكتشاف المشكلة، فهمها، تحليلها، ثم قول: «متقلقش.» وبطريقة ما... المشكلة بتتحل.",
+    "category": "core"
+  },
+  {
+    "id": "quick-wit",
+    "title": "سرعة البديهة",
+    "icon": "⚡",
+    "level": "Turbo",
+    "description": "الرد جاهز قبل انتهاء السؤال. تحس إنه كان عارف السؤال قبل ما يتسأل.",
+    "category": "core"
+  },
+  {
+    "id": "pressure",
+    "title": "العمل تحت الضغط",
+    "icon": "☕",
+    "level": "قهوة واحدة",
+    "description": "الأداء يرتفع كلما اقترب موعد التسليم. القهوة هي الوقود، والضغط هو المحفز.",
+    "category": "work"
+  },
+  {
+    "id": "persuasion",
+    "title": "الإقناع",
+    "icon": "🗣️",
+    "level": "CEO Approved",
+    "description": "يبدأ الحوار برأي وينهيه بخطة تنفيذية. حتى لو كنت مختلف معاه في الأول، هتخرج مقتنع.",
+    "category": "communication"
+  },
+  {
+    "id": "focus",
+    "title": "التركيز",
+    "icon": "🎯",
+    "level": "حسب الظروف",
+    "description": "عندما يركز، لا يوجد شيء يستطيع إيقافه. حتى الإشعارات بتسكت لوحدها احتراماً.",
+    "category": "core"
+  },
+  {
+    "id": "teamwork",
+    "title": "العمل الجماعي",
+    "icon": "🤝",
+    "level": "الناس بتسمع الكلام",
+    "description": "قيادة طبيعية. الناس بتحب تشتغل معاه لأنه بيخلي الشغل الصعب يبان سهل.",
+    "category": "leadership"
+  },
+  {
+    "id": "strategic",
+    "title": "التفكير الاستراتيجي",
+    "icon": "♟️",
+    "level": "Grandmaster",
+    "description": "يشوف 5 خطوات قدام. بينما الناس بتفكر في النهاردة، هو بيفكر في السنة الجاية.",
+    "category": "strategy"
+  },
+  {
+    "id": "adaptability",
+    "title": "التكيف السريع",
+    "icon": "🔄",
+    "level": "Chameleon",
+    "description": "أي موقف جديد؟ مفيش مشكلة. بيتكيف أسرع من ما تتوقع، ويحول التحدي لفرصة.",
+    "category": "core"
+  }
+]
