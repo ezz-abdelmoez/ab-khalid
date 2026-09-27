@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-light: var(--surface-light);
+  --color-gold: var(--gold);
+  --color-gold-light: var(--gold-light);
+  --color-muted: var(--muted);
+  --color-success: var(--success);
+  --color-danger: var(--danger);
+  --font-sans: "Cairo", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+:root {
+  --background: #07090D;
+  --foreground: #F5F5F5;
+  --surface: #10141B;
+  --surface-light: #171C24;
+  --gold: #D4AF37;
+  --gold-light: #F4D77D;
+  --muted: #8A919E;
+  --success: #3CCB7F;
+  --danger: #E45B5B;
+  --border: #171C24;
+  --radius: 0.75rem;
+}
+
+.light {
+  --background: #FFFEFB;
+  --foreground: #10141B;
+  --surface: #FFFFFF;
+  --surface-light: #F5F5F0;
+  --gold: #B8941F;
+  --gold-light: #D4AF37;
+  --muted: #6B7280;
+  --success: #10B981;
+  --danger: #EF4444;
+  --border: #E5E7EB;
+}
+
+* {
+  border-color: var(--border);
+}
+
+html {
+  scroll-behavior: smooth;
+  direction: rtl;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "Cairo", system-ui, sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-mono {
+  font-family: "JetBrains Mono", monospace;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--surface-light);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gold);
+}
+
+.gold-glow {
+  box-shadow: 0 0 20px rgba(212, 175, 55, 0.15);
+}
+
+.gold-glow-strong {
+  box-shadow: 0 0 40px rgba(212, 175, 55, 0.3);
+}
+
+.cinematic-gradient {
+  background: radial-gradient(ellipse at top, rgba(212, 175, 55, 0.08) 0%, transparent 60%),
+              radial-gradient(ellipse at bottom, rgba(16, 20, 27, 0.8) 0%, var(--background) 100%);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+::selection {
+  background: rgba(212, 175, 55, 0.3);
+  color: var(--foreground);
+}

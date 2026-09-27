@@ -1,0 +1,64 @@
+[
+  {
+    "id": "confidence",
+    "value": 99.9,
+    "suffix": "%",
+    "label": "معدل الثقة",
+    "description": "تم قياسه في ظروف صعبة جداً",
+    "humorous": true
+  },
+  {
+    "id": "ideas",
+    "value": "∞",
+    "label": "عدد الأفكار",
+    "description": "الرقم خارج نطاق النظام",
+    "humorous": true
+  },
+  {
+    "id": "availability",
+    "value": "24/7",
+    "label": "جاهزية نظرية",
+    "description": "عملياً حسب توفر القهوة",
+    "humorous": true
+  },
+  {
+    "id": "faith",
+    "value": 100,
+    "suffix": "%",
+    "label": "إيمان بالحل",
+    "description": "حتى لو الحل لسه مجاش",
+    "humorous": true
+  },
+  {
+    "id": "situations",
+    "value": 847,
+    "suffix": "+",
+    "label": "موقف تم التعامل معه",
+    "description": "بما في ذلك مواقف لم تكن في الخطة",
+    "humorous": true
+  },
+  {
+    "id": "coffee",
+    "value": 1243,
+    "suffix": "+",
+    "label": "فنجان قهوة استراتيجي",
+    "description": "الوقود الرسمي للإنجازات",
+    "humorous": true
+  },
+  {
+    "id": "meetings",
+    "value": 99,
+    "suffix": "%",
+    "label": "اجتماعات انتهت بـ «تمام»",
+    "description": "بعد خطة غير متوقعة",
+    "humorous": true
+  },
+  {
+    "id": "solutions",
+    "value": 100,
+    "suffix": "%",
+    "label": "حلول بعبارة «متقلقش»",
+    "description": "فعالة بنسبة تفوق التوقعات",
+    "humorous": true
+  }
+]
